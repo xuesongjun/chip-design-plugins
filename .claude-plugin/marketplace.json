@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "chip-design",
+  "description": "芯片设计 Claude Code 插件集，覆盖前端设计、验证、DFT、后端等环节",
+  "owner": {
+    "name": "xuesongjun"
+  },
+  "plugins": [
+    {
+      "name": "hdl-toolkit",
+      "description": "HDL 开发工具：编码规范、CDC 检查、综合前检查、项目脚手架、文件保护",
+      "source": "./plugins/hdl-toolkit",
+      "category": "development"
+    },
+    {
+      "name": "systemverilog-lsp",
+      "description": "Verible LSP 集成：诊断、跳转、格式化、lint 自动修复",
+      "source": "./plugins/systemverilog-lsp",
+      "category": "development"
+    }
+  ]
+}

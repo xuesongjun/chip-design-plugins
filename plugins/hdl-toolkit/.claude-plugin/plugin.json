@@ -1,0 +1,8 @@
+{
+  "name": "hdl-toolkit",
+  "description": "HDL 开发工具：编码规范、CDC 检查、综合前检查、项目脚手架、文件保护",
+  "version": "1.0.0",
+  "author": {
+    "name": "xuesongjun"
+  }
+}

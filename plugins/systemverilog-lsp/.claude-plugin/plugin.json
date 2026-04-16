@@ -1,0 +1,20 @@
+{
+  "name": "systemverilog-lsp",
+  "description": "Verible LSP 集成：诊断、跳转、格式化、lint 自动修复",
+  "version": "1.0.0",
+  "author": {
+    "name": "xuesongjun"
+  },
+  "lspServers": {
+    "verible": {
+      "command": "verible-verilog-ls",
+      "args": ["--rules_config_search"],
+      "extensionToLanguage": {
+        ".v": "systemverilog",
+        ".sv": "systemverilog",
+        ".svh": "systemverilog",
+        ".vh": "systemverilog"
+      }
+    }
+  }
+}
