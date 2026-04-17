@@ -1,5 +1,4 @@
 ---
-name: format
 description: 格式化 Verilog/SystemVerilog 文件，使用 verible-verilog-format
 disable-model-invocation: true
 ---

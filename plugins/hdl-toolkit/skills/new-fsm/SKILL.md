@@ -1,5 +1,4 @@
 ---
-name: new-fsm
 description: 生成符合项目规范的三段式 FSM 模板代码
 disable-model-invocation: true
 ---

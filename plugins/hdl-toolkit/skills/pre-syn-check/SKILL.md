@@ -1,5 +1,4 @@
 ---
-name: pre-syn-check
 description: 综合前 RTL 代码质量检查，识别可能影响综合的问题
 disable-model-invocation: true
 ---

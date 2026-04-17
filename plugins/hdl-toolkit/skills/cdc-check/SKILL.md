@@ -1,5 +1,4 @@
 ---
-name: cdc-check
 description: 检查 RTL 代码中的跨时钟域（CDC）路径安全性
 disable-model-invocation: true
 ---

@@ -1,5 +1,4 @@
 ---
-name: style-check
 description: 检查 RTL 代码是否符合项目 HDL 编码规范
 disable-model-invocation: true
 ---

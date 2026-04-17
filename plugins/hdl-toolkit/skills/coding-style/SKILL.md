@@ -1,5 +1,4 @@
 ---
-name: coding-style
 description: Verilog/SystemVerilog HDL 编码规范。编写、修改、审查 .v / .sv / .svh / .vh 文件时自动加载。涉及 RTL 设计、testbench 编写、HDL 代码风格检查时使用。
 ---
 

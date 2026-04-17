@@ -1,5 +1,4 @@
 ---
-name: init
 description: 初始化数字 IC 项目的目录结构和 Claude Code 配置
 disable-model-invocation: true
 allowed-tools: Bash Read Write
