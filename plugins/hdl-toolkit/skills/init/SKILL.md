@@ -13,7 +13,7 @@ allowed-tools: Bash Read Write
 1. 运行初始化脚本：
 
 ```bash
-python "${CLAUDE_PLUGIN_ROOT}/skills/init/scripts/init_project.py" $ARGUMENTS
+python3 "${CLAUDE_PLUGIN_ROOT}/skills/init/scripts/init_project.py" $ARGUMENTS
 ```
 
 如果系统默认 `python` 是 Python 2，尝试 `python3`。

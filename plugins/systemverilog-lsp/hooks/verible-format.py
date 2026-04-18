@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """PostToolUse hook: auto-format Verilog/SystemVerilog files after editing.
 
 开关机制：项目中存在 .verible-format 文件且包含 '# hook: on' 时启用。

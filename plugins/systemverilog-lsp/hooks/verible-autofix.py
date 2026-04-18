@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 """PostToolUse hook: auto-fix Verible lint warnings after editing .v/.sv/.svh/.vh files."""
 import json
 import subprocess

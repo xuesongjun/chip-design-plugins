@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 LOCKED 文件保护 hook
 检查 Claude 试图修改的文件是否包含 // CLAUDE-LOCKED 标记，

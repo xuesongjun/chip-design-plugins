@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 IC 项目初始化脚本
 用法：python init_project.py [项目路径]

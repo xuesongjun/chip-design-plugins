@@ -7,11 +7,11 @@
         "hooks": [
           {
             "type": "command",
-            "command": "python ${CLAUDE_PLUGIN_ROOT}/hooks/verible-autofix.py"
+            "command": "python3 ${CLAUDE_PLUGIN_ROOT}/hooks/verible-autofix.py"
           },
           {
             "type": "command",
-            "command": "python ${CLAUDE_PLUGIN_ROOT}/hooks/verible-format.py"
+            "command": "python3 ${CLAUDE_PLUGIN_ROOT}/hooks/verible-format.py"
           }
         ]
       }

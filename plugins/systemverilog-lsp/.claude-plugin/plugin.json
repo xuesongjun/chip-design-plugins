@@ -1,7 +1,7 @@
 {
   "name": "systemverilog-lsp",
   "description": "Verible LSP 集成：诊断、跳转、格式化、lint 自动修复",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "xuesongjun"
   },
